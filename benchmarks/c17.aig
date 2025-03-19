@@ -1,0 +1,7 @@
+aig 24 5 0 1 19
+49
+	o0 miter
+c
+aigmiter
+../moved/c17.aig
+../abc/c17.aig
