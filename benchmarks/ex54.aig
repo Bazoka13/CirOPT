@@ -1,8 +1,3 @@
-aig 42 8 0 1 34
-85
-!%3,,27;E
-8o0 miter
-c
-aigmiter
-../moved/ex54.aig
-../abc/ex54.aig
+version https://git-lfs.github.com/spec/v1
+oid sha256:cf8d4c5f5cc41001d1cfb9e11b26cef18326dab9d58bbc053f68b2182d4f4c2a
+size 141

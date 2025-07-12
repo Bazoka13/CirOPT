@@ -1,7 +1,3 @@
-aig 24 5 0 1 19
-49
-	o0 miter
-c
-aigmiter
-../moved/c17.aig
-../abc/c17.aig
+version https://git-lfs.github.com/spec/v1
+oid sha256:81b7b3f0b90a39428bb5d30734433fd18d938976b6f512678f37738664466ed6
+size 109

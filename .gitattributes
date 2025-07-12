@@ -1,3 +1,4 @@
 benchmarks/sixteen.aig filter=lfs diff=lfs merge=lfs -text
 benchmarks/twenty.aig filter=lfs diff=lfs merge=lfs -text
 benchmarks/twentythree.aig filter=lfs diff=lfs merge=lfs -text
+*.aig filter=lfs diff=lfs merge=lfs -text

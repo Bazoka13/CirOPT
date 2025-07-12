@@ -1,9 +1,3 @@
-aig 48 7 0 1 41
-97
-
-")	,-
-96@A;>GFPQ&o0 miter
-c
-aigmiter
-../moved/ex35.aig
-../abc/ex35.aig
+version https://git-lfs.github.com/spec/v1
+oid sha256:287d274dd803f405a2a3ab1d864fda8adb658bde4315812df7d16eeefdd43023
+size 155

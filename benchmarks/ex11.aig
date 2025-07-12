@@ -1,10 +1,3 @@
-aig 60 7 0 1 53
-121
-		!		1-	)059:;CJ>L
-LV^]
-"=Jg
-1/o0 miter
-c
-aigmiter
-../moved/ex11.aig
-../abc/ex11.aig
+version https://git-lfs.github.com/spec/v1
+oid sha256:a0b6dbb2fc638b3322c407ef1771d865e3d613b23048c7c923ea296343ddfdc9
+size 180

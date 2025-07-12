@@ -1,8 +1,3 @@
-aig 69 8 0 1 61
-139
-	&0+9	=@;B@
-LM	MajbcD+-/	o0 miter
-c
-aigmiter
-../moved/ex50.aig
-../abc/ex50.aig
+version https://git-lfs.github.com/spec/v1
+oid sha256:fcc9388ce3969737d1c63b6f5186d68f20d518eccd1afee3d61737333b40f4c3
+size 196
