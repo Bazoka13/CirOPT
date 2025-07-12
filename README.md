@@ -23,9 +23,9 @@ There are six folders in the root folder.
 - `CirOPT+Lingeling.py`, the implementations of combining CirOPT with [Lingeling](https://github.com/arminbiere/lingeling).
 - `WORK.md`, the description of running the combination of CirOPT and SAT solvers.
 ### Reproduce
-`abc_reproduce/` is the folder containing relevant files for reproducing the experimental results of ABC. For reproducing the results, users may refer to the instructions in `abc_reproduce/README.md`.
+`abc_reproduce/` is the folder containing relevant files for reproducing the experimental results of FRAIG, FRAIGopt, and CEC-ABC. For reproducing the results, users may refer to the instructions in `abc_reproduce/README.md`.
 `xsat_reproduce/` is the folder containing relevant files for reproducing the experimental results of X-SAT. For reproducing the results, users may refer to the instructions in `xsat_reproduce/README.md`.
-`cnf_reproduce/` is the folder containing relevant files for reproducing the experimental results of CirOPT and AIGTOCNF. For reproducing the results, users may refer to the instructions in `cnf_reproduce/README.md`.
+`cnf_reproduce/` is the folder containing relevant files for reproducing the experimental results of CirOPT, AIGTOCNF, Logic, and DC. For reproducing the results, users may refer to the instructions in `cnf_reproduce/README.md`.
 
 
 

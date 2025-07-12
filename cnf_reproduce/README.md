@@ -20,3 +20,25 @@
         Solved Number: xxx 
         PAR2: yyy.yy
         ```
+
+#### Logic
+- Change ABC_DIR (Line 7) to the path of your local ABC binary file
+- Change SOLVER_DIR (Line 8) to the path of your local CNF SAT solver binary file
+- Run logic_script.py
+- The number of successfully solved benchmarks (xxx) and PAR2 time (yyy.yy) will be output after the run is completed.
+    - For example,
+        ```
+        Solved Number: xxx 
+        PAR2: yyy.yy
+        ```
+
+#### DC
+- Change ABC_DIR (Line 7) to the path of your local ABC binary file
+- Change SOLVER_DIR (Line 8) to the path of your local CNF SAT solver binary file
+- Run dc_script.py
+- The number of successfully solved benchmarks (xxx) and PAR2 time (yyy.yy) will be output after the run is completed.
+    - For example,
+        ```
+        Solved Number: xxx 
+        PAR2: yyy.yy
+        ```
